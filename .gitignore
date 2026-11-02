@@ -1,0 +1,6 @@
+# Python's compiled cache files
+__pycache__/
+*.pyc
+
+# Test maps and adventure copies: large images, kept out of version control
+testmap/
